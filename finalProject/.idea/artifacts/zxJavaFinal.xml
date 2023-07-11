@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="zxJavaFinal">
+    <output-path>$PROJECT_DIR$/out/artifacts/zxJavaFinal</output-path>
+    <root id="archive" name="CODE.jar">
+      <element id="module-output" name="CODE" />
+    </root>
+  </artifact>
+</component>

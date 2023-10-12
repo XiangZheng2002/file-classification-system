@@ -1,2 +1,2 @@
 # fileClassificationSystem
- file classification system using JAVA
+ JAVA course Final Project
